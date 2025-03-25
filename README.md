@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-[velog](https://velog.io/@rlfgks97/posts)
-
 <!--
 **Yong-ga-ri/Yong-ga-ri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
